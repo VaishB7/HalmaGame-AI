@@ -1,2 +1,2 @@
 # HalmaGame-AI
-Halma Game using AI techniques - Part of CSCI 571 Course work at USC
+Halma Game using AI techniques - Part of CSCI 561 - Foundations of AI Course work at USC
